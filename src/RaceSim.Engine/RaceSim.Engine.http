@@ -1,0 +1,6 @@
+@RaceSim.Engine_HostAddress = http://localhost:5189
+
+GET {{RaceSim.Engine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
